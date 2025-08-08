@@ -15,4 +15,5 @@
     "@truffle/hdwallet-provider": "^2.0.15",
     "cors": "^2.8.5"
   }
+  
 }
